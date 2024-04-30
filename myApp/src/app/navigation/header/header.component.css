@@ -1,0 +1,16 @@
+.navigation-items {
+  list-style: none;
+  
+  display: flex;
+  padding-right: 20px;
+}
+.navigation-items li{
+  margin-right:20px;
+}
+
+.navigation-items li a,a{
+  
+  text-decoration: none;
+    color: white;
+
+}
